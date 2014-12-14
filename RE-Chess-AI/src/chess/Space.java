@@ -2,6 +2,7 @@
  * 
  */
 package chess;
+import chess.Piece;
 
 /**
  * Class to create a space on a chess board.
@@ -9,7 +10,7 @@ package chess;
  */
 public class Space {
 	
-	char piece;
+	Piece piece;
 	int whiteDefenseValue, blackDefenseValue;
 	
 	/**
