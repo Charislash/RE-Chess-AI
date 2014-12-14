@@ -9,5 +9,5 @@ package chess;
  */
  
  public enum Piece() {
-	p, b, n, r, q, k
+	e, p, b, n, r, q, k
  }
